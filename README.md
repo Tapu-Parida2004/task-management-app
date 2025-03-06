@@ -56,14 +56,14 @@ Follow these steps to set up and run the project locally.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/task-management-app.git
+   git clone https://github.com/Tapu-Parida2004/task-management-app.git
    cd task-management-app
-   Install dependencies:
+   npm install
    ```
 2. **npm install**
    Start the development server:
    ```bash
-   expo start
+   npm start
    ```
 3. **Run the app:**
    Scan the QR code with the Expo Go app (Android/iOS).
