@@ -83,6 +83,7 @@ task-management-app/
 │ └── TaskListScreen.js # Screen for displaying tasks
 ├── App.js              # Root component
 ├── LICENSE             # MIT License file
+├── screenshots         # screenshots
 └── README.md           # Project documentation
 
 ## Usage
