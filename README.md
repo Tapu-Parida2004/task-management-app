@@ -23,7 +23,7 @@ A simple and intuitive Task Management App built with **React Native (Expo)**, *
 ![Task List Screen](screenshots/task-list-screen.jpg)
 
 ### Add/Edit Task Screen
-![Add/Edit Task Screen](screenshots/add-edit-task-screen.jpg)
+![Add/Edit Task Screen](screenshots/add&edit-task-screen.jpg)
 
 ### Delete Confirmation Modal
 ![Delete Confirmation Modal](screenshots/delete-confirmation-modal.jpg)
