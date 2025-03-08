@@ -71,20 +71,20 @@ Follow these steps to set up and run the project locally.
 
 ## Project Structure
 
-task-management-app/
-├── assets/             # Static assets (images, icons, etc.)
-├── navigation/         # React Navigation setup
-│ └── AppNavigator.js   # Stack navigator for screens
-├── redux/              # Redux state management
-│ ├── store.js          # Redux store configuration
-│ └── tasksSlice.js     # Redux slice for tasks
-├── screens/            # App screens
-│ ├── AddEditTaskScreen.js # Screen for adding/editing tasks
-│ └── TaskListScreen.js # Screen for displaying tasks
-├── App.js              # Root component
-├── LICENSE             # MIT License file
-├── screenshots         # screenshots
-└── README.md           # Project documentation
+**task-management-app/**
+**├── assets/             # Static assets (images, icons, etc.)**
+**├── navigation/         # React Navigation setup**
+**│ └── AppNavigator.js   # Stack navigator for screens**
+**├── redux/              # Redux state management**
+**│ ├── store.js          # Redux store configuration**
+**│ └── tasksSlice.js     # Redux slice for tasks**
+**├── screens/            # App screens**
+**│ ├── AddEditTaskScreen.js # Screen for adding/editing tasks**
+**│ └── TaskListScreen.js # Screen for displaying tasks**
+**├── App.js              # Root component**
+**├── LICENSE             # MIT License file**
+**├── screenshots         # screenshots**
+**└── README.md           # Project documentation**
 
 ## Usage
 
